@@ -1,0 +1,55 @@
+
+body { color: #333132; }
+nav {
+    color: #333132;
+    background-color: #fff;
+    box-shadow: none;
+}
+nav a {
+    color: #333132;
+}
+nav i, nav [class^="mdi-"], nav [class*="mdi-"], nav i.material-icons {
+    display: block;
+    font-size: 40px;
+    height: 56px;
+    line-height: 56px;
+}
+.title-section {margin-top:30px;}
+.title-section h1 {font-weight: bold; margin: 0.3rem 0 3.68rem 0; text-align:center;}
+.title-section h2 {font-weight: bold; margin: 0.3rem 0 3.68rem 0; text-align:center;}
+.title-section h3 {margin:0; text-align:center; font-size: 2.1rem;}
+.side-nav {
+    padding-top: 10px;
+  }
+
+.side-nav-top img {height:55px;padding:15px;}
+.side-nav-top img.exit-icon {height:55px; margin-bottom:5px;}
+.nav-wrapper .side-nav-top img.ocha-logo {height:65px;  margin-top:0px; margin-left:3px;}
+.nav-wrapper img.ocha-logo {height:35px; margin-top:14px;}
+.side-nav li.white {
+  padding: 0 10px;
+}
+.side-nav li>a {
+    color: #333132;
+    display: block;
+    font-size: 1.4em;
+    font-weight: 300;
+    height: 48px;
+    line-height: 48px;
+    padding: 0 32px;
+}
+.side-nav li>a.bold-text {
+    font-weight: 700; font-size: 1.5em;
+}
+@media only screen and (min-width: 1200px)
+html {
+    font-size: 20px;
+}
+
+.bold-text {font-weight: 700;}
+.section-buttons {text-align: center; margin-top:;}
+.section-buttons a.btn {background-color: #fff; color: #333132 ; margin:10px; text-transform: none; box-shadow: none; border: 1px solid #C7C8CA }
+
+.logoBar {
+    display: none;
+}
