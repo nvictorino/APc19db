@@ -48,6 +48,8 @@ html {
 
 .bold-text {font-weight: 700;}
 .section-buttons {text-align: center; margin-top:;}
+.sub-page .section-buttons {text-align: center; margin-bottom:90px;}
+.subsection.section-buttons {text-align: center; margin-bottom: 0;}
 .section-buttons a.btn {background-color: #fff; color: #333132 ; margin:10px; text-transform: none; box-shadow: none; border: 1px solid #C7C8CA }
 
 .logoBar {
@@ -73,4 +75,6 @@ html {
 .vulnerability .responsive-object { padding-bottom: 285%;}
 .planning .responsive-object { padding-bottom: 238%;}
 .impact-crisis .responsive-object { padding-bottom: 391%;}
+.presence-response .responsive-object { padding-bottom: 150%;}
+.rcce .responsive-object { padding-bottom: 150%;}
 .footer-hide {background-color: #fff; width:100%; height: 40px; position: relative; bottom: 0;}
