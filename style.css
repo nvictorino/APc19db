@@ -46,6 +46,14 @@ html {
     font-size: 20px;
 }
 
+@media only screen and (min-width: 993px)
+.container {
+    width: 95%;
+}
+@media only screen and (min-width: 601px)
+.container {
+    width: 95%;
+}
 .bold-text {font-weight: 700;}
 .section-buttons {text-align: center; margin-top:;}
 .sub-page .section-buttons {text-align: center; margin-bottom:90px;}
@@ -74,7 +82,7 @@ html {
 .civ-mil .responsive-object { padding-bottom: 72%;}
 .vulnerability .responsive-object { padding-bottom: 285%;}
 .planning .responsive-object { padding-bottom: 238%;}
-.impact-crisis .responsive-object { padding-bottom: 408%;}
+.impact-crisis .responsive-object { padding-bottom: 411%;}
 .presence-response .responsive-object { padding-bottom: 150%;}
 .rcce .responsive-object { padding-bottom: 150%;}
 .restrictions .responsive-object { padding-bottom: 150%;}
