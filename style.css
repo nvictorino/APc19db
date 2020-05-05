@@ -41,18 +41,20 @@ nav i, nav [class^="mdi-"], nav [class*="mdi-"], nav i.material-icons {
 .side-nav li>a.bold-text {
     font-weight: 700; font-size: 1.5em;
 }
-@media only screen and (min-width: 1200px)
-html {
-    font-size: 20px;
+@media only screen and (min-width: 1200px) {
+    html {
+        font-size: 20px;
+    }
 }
-
-@media only screen and (min-width: 993px)
-.container {
-    width: 95%;
+@media only screen and (min-width: 993px) {
+    .container {
+        width: 85%;
+    }
 }
-@media only screen and (min-width: 601px)
-.container {
-    width: 95%;
+@media only screen and (min-width: 601px) {
+    .container {
+        width: 100%;
+    }
 }
 .bold-text {font-weight: 700;}
 .section-buttons {text-align: center; margin-top:;}
