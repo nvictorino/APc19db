@@ -15,8 +15,8 @@ nav i, nav [class^="mdi-"], nav [class*="mdi-"], nav i.material-icons {
     line-height: 56px;
 }
 .title-section {margin-top:30px;}
-.title-section h1 {font-weight: bold; margin: 0.3rem 0 3.68rem 0; text-align:center;}
-.title-section h2 {font-weight: bold; margin: 0.3rem 0 3.68rem 0; text-align:center;}
+.title-section h1 {font-weight: bold; margin: 0.3rem 0 3.68rem 0; text-align:center; }
+.title-section h2 {font-weight: bold; margin: 0.3rem 0 3.68rem 0; text-align:center; }
 .title-section h3 {margin:0; text-align:center; font-size: 2.1rem;}
 .side-nav {
     padding-top: 10px;
@@ -29,18 +29,21 @@ nav i, nav [class^="mdi-"], nav [class*="mdi-"], nav i.material-icons {
 .side-nav li.white {
   padding: 0 10px;
 }
+
 .side-nav li>a {
     color: #333132;
     display: block;
-    font-size: 1.4em;
+    font-size: 1.1em;
     font-weight: 300;
-    height: 48px;
-    line-height: 48px;
+    height: 43px;
+    line-height: 35px;
     padding: 0 32px;
 }
 .side-nav li>a.bold-text {
-    font-weight: 700; font-size: 1.5em;
+    font-weight: 700; font-size: 1.2em; line-height: 58px
 }
+
+.side-nav li.white-space-divider {height:4px;}
 @media only screen and (min-width: 1200px) {
     html {
         font-size: 20px;
