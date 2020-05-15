@@ -83,7 +83,7 @@ nav i, nav [class^="mdi-"], nav [class*="mdi-"], nav i.material-icons {
   margin: 10px 0;
   overflow: hidden;
 }
-.overview .responsive-object { padding-bottom: 495%;}
+.overview .responsive-object { padding-bottom: 456%;}
 .civ-mil .responsive-object { padding-bottom: 72%;}
 .vulnerability .responsive-object { padding-bottom: 285%;}
 .planning .responsive-object { padding-bottom: 244%;}
