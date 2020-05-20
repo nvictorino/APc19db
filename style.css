@@ -36,7 +36,7 @@ nav i, nav [class^="mdi-"], nav [class*="mdi-"], nav i.material-icons {
     font-size: 1.1em;
     font-weight: 300;
     height: 43px;
-    line-height: 35px;
+    line-height: 40px;
     padding: 0 32px;
 }
 .side-nav li>a.bold-text {
@@ -63,7 +63,7 @@ nav i, nav [class^="mdi-"], nav [class*="mdi-"], nav i.material-icons {
 .section-buttons {text-align: center; margin-top:30px;}
 .sub-page .section-buttons {text-align: center; margin-bottom:60px;}
 .subsection.section-buttons {text-align: center; margin-bottom: 0;}
-.section-buttons a.btn {background-color: #fff; color: #333132 ; margin:10px; text-transform: none; box-shadow: none; border: 1px solid #C7C8CA }
+.section-buttons a.btn {background-color: #fff; color: #333132 ; margin:5px; text-transform: none; box-shadow: none; border: 1px solid #C7C8CA; padding-left: 15px; padding-right: 15px; }
 
 .logoBar {
     display: none;
@@ -92,5 +92,5 @@ nav i, nav [class^="mdi-"], nav [class*="mdi-"], nav i.material-icons {
 .rcce .responsive-object { padding-bottom: 150%;}
 .restrictions .responsive-object { padding-bottom: 150%;}
 .hum-impact .responsive-object { padding-bottom: 168%;}
-.country .responsive-object { padding-bottom: 241%;}
+.country .responsive-object { padding-bottom: 205%;}
 .footer-hide {background-color: #fff; width:100%; height: 40px; position: relative; bottom: 0;}
