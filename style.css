@@ -70,7 +70,7 @@ nav i, nav [class^="mdi-"], nav [class*="mdi-"], nav i.material-icons {
 }
 
 .responsive-object iframe {
-    position: absolute;
+    position: absolute; 
     top: 0;
     left: 0;
     width: 100%;
